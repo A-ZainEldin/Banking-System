@@ -11,9 +11,6 @@ The **Bank System** is a Windows Forms application designed to manage banking op
   - Handling transactions.
   - Generating reports.
 
-## Project Structure
-Bank System/ ├── Bank System.sln # Visual Studio Solution File ├── App.config # Application configuration file ├── Form1.cs # Main Form code ├── Form1.Designer.cs # Form Designer code ├── Program.cs # Application entry point ├── Properties/ # Application properties │ ├── AssemblyInfo.cs │ ├── Resources.* │ ├── Settings.* ├── bin/Debug/ # Compiled executable and debug files ├── obj/Debug/ # Intermediate build files ├── .vs/ # Visual Studio-specific files
-
 ## Database
 - **ERD File:** The `Bank System ERD.pdf` provides the Entity-Relationship Diagram for the database schema.
 - **SQL Scripts:**
@@ -42,6 +39,3 @@ Bank System/ ├── Bank System.sln # Visual Studio Solution File ├── A
 - Add more features like account types, loan processing, and transaction history.
 - Enhance the UI for better user experience.
 - Implement role-based access control for administrators and users.
-
-## Credits
-This project is developed by [Your Team Name/Contributors].
