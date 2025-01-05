@@ -1,0 +1,10 @@
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\bin\Debug\Bank System.exe
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\bin\Debug\Bank System.pdb
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank_System.Form1.resources
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank System.csproj.GenerateResource.cache
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank System.exe
+C:\Users\abdullah\Desktop\Coding\C#\Bank System\Bank System\obj\Debug\Bank System.pdb
